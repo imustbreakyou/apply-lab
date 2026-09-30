@@ -26,14 +26,14 @@ Proposed harness changes require review and approval. The harness records decisi
 
 Role-analysis experiments used saved job descriptions, criteria set before generation and fresh agents without expected answers. Final resumes receive separate checks for factual support, relevance and layout.
 
-## Recorded results
+## Examples
 
-| Check | Result |
-| --- | --- |
-| Role analysis | Revised briefs provided useful, distinct guidance for two roles. Review also corrected overly strict expectations about wording. [Record](docs/decision-log.md#entry-061) |
-| Resume revision | Six resumes completed separate agent reviews; 12 PDF pages were inspected and all 59 existing comments preserved. [Record](docs/decision-log.md#entry-071) |
-| Feedback controls | Separate Resume and Harness feedback passed 21 automated tests and browser checks; all 44 existing comments were preserved. [Record](docs/decision-log.md#entry-068) |
+Three changes, with before-and-after excerpts and their limits:
 
-These are development results. The two-role comparison was iterative; the six-resume pass also changed source evidence and reused agents. The results do not isolate the effect of instruction changes. [Later feedback](docs/decision-log.md#entry-077) still identified improvements to opening emphasis and wording.
+- [Sharper role analysis](docs/examples.md#sharper-role-analysis): turn a broad mandate into specific behaviors the mapper can seek evidence for.
+- [Correcting the evaluator](docs/examples.md#correcting-the-evaluator): remove a wording requirement the rubric never asked for, and reassess both outputs.
+- [Separating feedback](docs/examples.md#separating-feedback): distinguish a change to one resume from a change to the workflow, while preserving older comments.
 
-The [full decision log, with redactions](docs/decision-log.md) covers all 82 recorded entries through September 30, 2026, 06:55 Pacific, including proposals, corrections and pending outcomes. Private career details and internal identifiers are marked where removed.
+These examples show local development progress. They do not establish broad reliability or better hiring outcomes.
+
+For background, the [full decision log, with redactions](docs/decision-log.md) preserves proposals, corrections and pending outcomes through September 30, 2026, 06:55 Pacific.
