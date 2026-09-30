@@ -1,8 +1,8 @@
 # Apply Lab
 
-The multi-agent workflow behind my resume.
+The multi-agent workflow behind this resume.
 
-I designed Apply Lab to turn job requirements and documented career experience into tailored resumes. I defined the agent roles, handoffs and review criteria, using AI agents to help implement and refine the system.
+Apply Lab combines role research, career evidence and human review to produce tailored resumes.
 
 ## How it works
 
@@ -13,8 +13,12 @@ The workflow starts with a job description and a career library: a structured co
 3. **Write.** A writer creates the resume and records the sources supporting its claims.
 4. **Review.** A separate reviewer checks accuracy, relevance, writing and page layout, then returns findings for revision.
 
-Each stage produces a written handoff. Missing qualifications and unknown outcomes stay visible. I review the final resume and make the editorial decisions before using it.
+Each stage produces a written handoff. Claims stay linked to their sources, and evidence gaps are flagged for clarification. The final resume requires personal review.
 
-## Refining the system
+## Feedback and evaluation
 
-Reviewing drafts led me to make company and product context an explicit input to both mapping and writing. I also added an editorial check: the opening should address the role's main need and make the strongest relevant experience easy to find.
+Feedback stays attached to the exact resume version. Content corrections are separated from workflow issues. A harness records proposed changes to agent instructions and their outcomes; changes require review before application.
+
+Role-analysis changes have been compared using two saved job descriptions, with evaluation criteria defined before the runs. Fresh agents received no expected answers. Checks covered hiring priorities, evidence guidance and differences between roles.
+
+Final resumes receive separate checks for factual support, relevance and layout. These are development checks; broader reliability has not been established.
