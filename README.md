@@ -17,7 +17,12 @@ Each stage produces a written handoff. Claims stay linked to their sources, and 
 
 ## Feedback and evaluation
 
-Feedback stays attached to the exact resume version. Content corrections are separated from workflow issues. A harness records proposed changes to agent instructions and their outcomes; changes require review before application.
+Feedback stays attached to the exact resume version and is marked as one of two types:
+
+- **Resume feedback:** changes to that document's content, wording or layout.
+- **Harness feedback:** improvements to agent instructions, handoffs or review criteria across future runs.
+
+Proposed harness changes require review and approval. The harness records decisions and outcomes.
 
 Role-analysis changes have been compared using two saved job descriptions, with evaluation criteria defined before the runs. Fresh agents received no expected answers. Checks covered hiring priorities, evidence guidance and differences between roles.
 
