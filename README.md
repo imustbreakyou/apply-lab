@@ -2,7 +2,7 @@
 
 The multi-agent workflow behind this resume.
 
-Apply Lab tailors resumes for product management applications, keeping claims grounded in documented career experience. Its workflow and evaluations are scoped to PM roles.
+Apply Lab tailors resumes to job descriptions, keeping claims grounded in documented career experience.
 
 ## How it works
 
@@ -36,4 +36,4 @@ Three changes, with before-and-after excerpts and their limits:
 
 These examples show local development progress. They do not establish broad reliability or better hiring outcomes.
 
-For background, the [full decision log, with redactions](docs/decision-log.md) preserves proposals, corrections and pending outcomes through September 30, 2026, 06:55 Pacific.
+For background, the [decision-log extract, with redactions](docs/decision-log.md) preserves proposals, corrections and pending outcomes.
