@@ -1,6 +1,6 @@
 # Workflow examples
 
-Selected September 29, 2026 artifacts show what changed and what remains unproven. Case labels replace employer names; square brackets mark substitutions. The feedback example uses synthetic test data. No candidate career records are included.
+Selected development artifacts show what changed and what remains unproven. Case labels replace employer names; square brackets mark substitutions. The feedback example uses synthetic test data. No candidate career records are included. Public examples omit personal names, employers, target companies, customers, contact details, private paths and identifying career metrics; neutral case labels stand in for real applications.
 
 ## Sharper role analysis
 
@@ -8,17 +8,9 @@ Selected September 29, 2026 artifacts show what changed and what remains unprove
 
 **Change.** The analyst instruction now asks for three or four defining behaviors, grounded in the posting, with observable proof to seek and explicit writing guidance.
 
-**Before — role thesis:**
+**Before.** The brief summarized the overall mandate but gave downstream agents limited guidance about which evidence mattered most.
 
-> [Case A] needs a PM who converts an uncertain customer ambition into a useful, deployed AI system and owns the relationship and execution through business impact.
-
-**After — role thesis:**
-
-> [Case A] needs a PM who **makes uncertain client problems actionable, owns delivery through live business use, earns trust while challenging stakeholders, and personally closes execution gaps**.
-
-The revised brief connects practical ownership to evidence the mapper can look for:
-
-> A stalled effort, hands-on action chosen for a reason, and movement toward an outcome. Cross-functional operations can show initiative; enthusiasm or a tool list cannot show judgment.
+**After.** The brief connected its ranked priorities to observable evidence and writing guidance. Job-specific wording and hiring criteria are omitted from this public example.
 
 **Limit.** This is a more specific handoff, not evidence that the eventual resume improved. Instructions were tuned on two known roles, with one output per condition; live research and some assignment wording also varied. An unseen role and downstream resume review remain necessary.
 
@@ -26,19 +18,13 @@ Source: saved baseline and final role briefs from the two-role analyst experimen
 
 ## Correcting the evaluator
 
-**Problem.** The coordinator penalized the revised brief because teamwork was outside the opening and its writing guidance lacked an explicit energetic adjective. That added a requirement the original rubric did not contain:
+**Problem.** The coordinator penalized an output for wording and placement that the agreed rubric did not require.
 
-> Assess meaning, not literal keyword matches.
+**Before.** A requirement was covered, but the evaluator treated its absence from the opening as a failure.
 
-**Before — assessment:**
+**Change.** After the user challenged that interpretation, the coordinator separated coverage from editorial placement and assessed meaning rather than a literal phrase match.
 
-> Team learning survives in R7 and collaborative appears in the writer direction. But it is bundled with AI learning as enabling, while the opening's four defining qualities exclude collective success.
-
-**Change.** After the user challenged that interpretation, the coordinator separated detecting a job signal from deciding whether it belongs in a resume headline, supporting achievement or interview story.
-
-**After — assessment:**
-
-> This gives downstream agents something actionable. Calling it enabling rather than one of four opening qualities is a defensible prioritization, not a failure.
+**After.** The same output met the original criteria. The initial assessment was retained so the correction remained visible.
 
 The correction applied to both outputs:
 
@@ -81,4 +67,4 @@ The original comment object was preserved. New comments retained the exact resum
 
 Source: interface and export formatter before and after the change, plus the saved synthetic export and browser verification. Export excerpts omit source, hash, anchor, status and timestamps. [Verification record](decision-log.md#entry-068).
 
-The [full decision log](decision-log.md) provides additional history. These excerpts are selected evidence, not a complete benchmark or an independent audit.
+The [decision-log extract](decision-log.md) provides additional history. These excerpts are selected evidence, not a complete benchmark or an independent audit.
